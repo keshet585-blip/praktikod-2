@@ -1,32 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\praktikod-2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\praktikod-2\\consoleapp1\\htmlvoidtags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F3638B6F-09B6-47DB-9582-4BFA29475D9F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\htmlvoidtags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\praktikod-2\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,84 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:38:25.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HtmlVoidTags.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlVoidTags.json",
-              "RelativeDocumentMoniker": "ConsoleApp1\\HtmlVoidTags.json",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlVoidTags.json",
-              "RelativeToolTip": "ConsoleApp1\\HtmlVoidTags.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T13:17:17.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Selector.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\Selector.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Selector.cs",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\Selector.cs",
-              "RelativeToolTip": "ConsoleApp1\\Selector.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T21:41:33.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HtmlHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlHelper.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\HtmlHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlHelper.cs",
-              "RelativeToolTip": "ConsoleApp1\\HtmlHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T20:00:09.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HtmlParser.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlParser.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\HtmlParser.cs",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlParser.cs",
-              "RelativeToolTip": "ConsoleApp1\\HtmlParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T21:21:51.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HtmlElement.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlElement.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\HtmlElement.cs",
-              "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\HtmlElement.cs",
-              "RelativeToolTip": "ConsoleApp1\\HtmlElement.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T19:57:04.868Z"
             }
           ]
         }
