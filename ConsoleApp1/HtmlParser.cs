@@ -4,9 +4,21 @@ using System.Text.RegularExpressions;
 internal class HtmlParser
 {
     private readonly HtmlHelper helper = HtmlHelper.Instance;
-
-    public HtmlElement Parse(string html)
+    static async Task<string> Load(string url)
     {
+        using HttpClient client = new HttpClient();
+        var response = await client.GetAsync(url);
+        if (!response.IsSuccessStatusCode)
+        {
+            throw new Exception("Failed to load HTML");
+        }
+        return await response.Content.ReadAsStringAsync();
+    }
+    public async Task<HtmlElement> Parse(string url)
+    {
+      string html = await Load(url);
+
+
         var tags = Regex.Split(html, "(?=<)|(?<=>)")
                    ?? new string[0];
         HtmlElement root = new HtmlElement { Name = "root" };
@@ -46,7 +58,7 @@ internal class HtmlParser
                 current.Children.Add(element);
 
                 if (!trimmed.EndsWith("/>") && !helper.IsHtmlVoidTag(tagName))
-                    current = element; // יורדים רמה
+                    current = element; 
             }
             else
             {

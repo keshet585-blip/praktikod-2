@@ -45,7 +45,8 @@ internal class Selector
 
     private static bool IsValidHtmlTag(string tagName)
     {
-        // כאן ניתן להוסיף לוגיקה לבדוק אם מדובר בשם תגית HTML תקין
-        return !string.IsNullOrWhiteSpace(tagName);
+            HtmlHelper helper = HtmlHelper.Instance;
+
+        return (!string.IsNullOrWhiteSpace(tagName)) && (helper.IsTag(tagName)|| helper.IsHtmlVoidTag(tagName)) ;
     }
 }
