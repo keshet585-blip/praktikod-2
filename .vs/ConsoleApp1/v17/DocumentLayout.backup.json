@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\praktikod-2\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T19:38:25.853Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "ConsoleApp1\\HtmlParser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T21:21:51.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T21:21:51.467Z"
             },
             {
               "$type": "Document",
